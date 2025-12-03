@@ -1,0 +1,130 @@
+[
+    {
+        "case_id": "CASE-5882",
+        "gender": "Male",
+        "age": "43",
+        "height": "168",
+        "weight": "56",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-3165",
+        "gender": "Male",
+        "age": "41",
+        "height": "180",
+        "weight": "80",
+        "temperature": "39"
+    },
+    {
+        "case_id": "CASE-4915",
+        "gender": "Male",
+        "age": "25",
+        "height": "180",
+        "weight": "80",
+        "temperature": "39"
+    },
+    {
+        "case_id": "CASE-1081",
+        "gender": "Male",
+        "age": "67",
+        "height": "150",
+        "weight": "48",
+        "temperature": "37"
+    },
+    {
+        "case_id": "CASE-7933",
+        "gender": "Male",
+        "age": "82",
+        "height": "150",
+        "weight": "90",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-1027",
+        "gender": "Male",
+        "age": "54",
+        "height": "175",
+        "weight": "70",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-8131",
+        "gender": "Male",
+        "age": "25",
+        "height": "175",
+        "weight": "70",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-4882",
+        "gender": "Male",
+        "age": "25",
+        "height": "50",
+        "weight": "40",
+        "temperature": "5"
+    },
+    {
+        "case_id": "CASE-5487",
+        "gender": "Male",
+        "age": "52",
+        "height": "168",
+        "weight": "56",
+        "temperature": "39"
+    },
+    {
+        "case_id": "CASE-9438",
+        "gender": "Male",
+        "age": "25",
+        "height": "5",
+        "weight": "5",
+        "temperature": "5"
+    },
+    {
+        "case_id": "CASE-8146",
+        "gender": "Male",
+        "age": "53",
+        "height": "160",
+        "weight": "65",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-4132",
+        "gender": "Female",
+        "age": "25",
+        "height": "160",
+        "weight": "65",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-9395",
+        "gender": "Female",
+        "age": "53",
+        "height": "160",
+        "weight": "65",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-8337",
+        "gender": "Male",
+        "age": "48",
+        "height": "170",
+        "weight": "80",
+        "temperature": "39"
+    },
+    {
+        "case_id": "CASE-4839",
+        "gender": "Male",
+        "age": "37",
+        "height": "1.7",
+        "weight": "66",
+        "temperature": "38"
+    },
+    {
+        "case_id": "CASE-5855",
+        "gender": "Male",
+        "age": "21",
+        "height": "1.68",
+        "weight": "55",
+        "temperature": "39"
+    }
+]
